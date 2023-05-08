@@ -1,0 +1,31 @@
+name: new_25_4
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - New/house.png
+    - New/house.jpg
+    - New/grocery.jpg
+    - New/liquor.jpg
+    - New/chilled.jpg
+    - New/ginger.png
+    - New/garlic.png
+    - New/onions.png
+    - New/carrot.png
+    - New/mango.png
+    - New/grapes.png
