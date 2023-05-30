@@ -1,0 +1,37 @@
+name: humberger
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/coffee.png
+    - images/hamburger.png
+    - images/ice.png
+    - images/jpg.png
+    - images/pizza.png
+    - Picture/burger.png
+    - Picture/pizzaa.png
+    - Picture/cafe.png
+    - Picture/banh.png
+    - Picture/jpg.png
+    - Back/burger2.png
+    - Back/burger3.png
+    - Newpic/burgernen.png
+    - Newpic/cake3.png
+    - Newpic/cofe3.png
+    - Newpic/ice2.png
+    - Newpic/pizza2.png
