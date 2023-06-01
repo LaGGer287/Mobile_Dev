@@ -1,0 +1,26 @@
+name: category
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - images/beauty.png
+    - images/electronics.png
+    - images/fashion.png
+    - images/footwear.png
+    - images/jewellery.png
+    - images/toys.png 
